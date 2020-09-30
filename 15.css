@@ -1,0 +1,85 @@
+.designs {
+    width: auto;
+    background-color: black;
+    box-sizing: border-box;
+    outline: 5px solid pink;
+    outline-offset: -30px;
+}
+
+.top {
+    color: pink;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    font-weight: bold;
+    font-size: x-large;
+    padding-top: 40px;
+}
+
+.bottom {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.boundary {
+    transform: skewY(-3deg);
+}
+
+.section {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    transform: skewY(3deg);
+    font-family: 'Solway', serif;
+    font-weight: bolder;
+}
+
+.one {
+    font-size: large;
+    background-image: url("15task/1.jpg");
+    font-weight: bold;
+}
+
+.two {
+    font-size: large;
+    background-image: url("15task/3.jpg");
+    background-color: orange;
+    font-weight: bold;
+}
+
+.three {
+    font-size: large;
+    background-image: url("15task/2.jpg");
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+.four {
+    font-size: large;
+    font-weight: bolder;
+    background-image: url("15task/3.jpg");
+    background-color: lightpink;
+    background-blend-mode: color;
+    font-weight: bold;
+}
+
+.five {
+    font-size: large;
+    background-image: url("15task/7.jpg");
+    background-color: lightgreen;
+    font-weight: bold;
+
+}
+
+.six {
+    font-size: large;
+    background-image: url("15task/4.jpg");
+    background-color: lightpink;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+}
